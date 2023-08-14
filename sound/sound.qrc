@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/new/prefix2">
+        <file>Boom.wav</file>
+        <file>Eat.wav</file>
+        <file>Fire.wav</file>
+        <file>Lose.wav</file>
+        <file>Mush.wav</file>
+        <file>NewsLost.wav</file>
+        <file>NotEnoughSun.wav</file>
+        <file>Pea.wav</file>
+        <file>PeaHit.wav</file>
+        <file>Place.wav</file>
+        <file>Pole.wav</file>
+        <file>Potato.wav</file>
+        <file>ShieldHit.wav</file>
+        <file>sound.qrc</file>
+        <file>Sun.wav</file>
+        <file>Grazy.wav</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>Grazy.wav</file>
+    </qresource>
+</RCC>
